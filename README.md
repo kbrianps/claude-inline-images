@@ -7,7 +7,7 @@ A Claude Code mod that draws PNG images right in your terminal, instead of a one
 
 Each image has its path below it as a link: click it to open the file in your system image viewer.
 
-<!-- TODO: before/after GIF -->
+![Before and after: a PNG Claude reads, drawn inline in Ghostty](assets/demo.gif)
 
 ## Install
 
