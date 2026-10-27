@@ -1,0 +1,13 @@
+{
+  "name": "claude-inline-images",
+  "owner": {
+    "name": "Brian Pravato"
+  },
+  "description": "Claude Code mod that draws PNG images inline in the terminal",
+  "plugins": [
+    {
+      "name": "inline-images",
+      "source": "./"
+    }
+  ]
+}
